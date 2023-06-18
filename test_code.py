@@ -1,0 +1,1 @@
+enter_coin_test = 'XRPUSD'
